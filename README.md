@@ -4,7 +4,7 @@ AND operation between two binary numbers.
 # Running the application
 
 ### Requirements
-Download [DOSBOX](https://www.dosbox.com/download.php?main=1)
+Download [DOSBOX](https://www.dosbox.com/download.php?main=1) \
 We are also going to need TASM, which i have added to this repository.
 
 ### How to run
